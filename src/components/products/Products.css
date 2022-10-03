@@ -1,0 +1,179 @@
+*{
+    box-sizing: border-box;
+}
+
+.products-title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #3B4A6B;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.products-part {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 60px;
+}
+
+.product-box {
+    width: 350px;
+    height: 450px;
+    border-radius: 15px;
+    background-color: #F7F7F7;
+    box-shadow: 2px 2px 3px 2px #888888;
+}
+
+
+.products-part2 {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 50px;
+}
+
+.rolex {
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.rolex-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 15px;
+    display: flex;
+    
+}
+
+.rolex-price {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    
+}
+
+.rolex-box {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    background-color: #CFD2CF;
+    border-radius: 5px;
+    
+    
+}
+
+.prices {
+    color: orangered;
+}
+.rolex-box2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 12px;
+    background-color: #CFD2CF;
+    border-radius: 5px;
+}
+.rolex-box3 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+    background-color: #CFD2CF;
+    border-radius: 5px;
+}
+
+.rolex-box6 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    background-color: #CFD2CF;
+    border-radius: 5px;
+}
+.rolex-box66 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    background-color: #CFD2CF;
+    border-radius: 5px;
+}
+.rolex-box7 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    background-color: #CFD2CF;
+    border-radius: 5px;
+}
+.rolex-box8 {
+    display: flex;
+    justify-content: space-around;
+    
+    background-color: #CFD2CF;
+    border-radius: 5px;
+}
+.rolex-box33 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    background-color: #CFD2CF;
+    border-radius: 5px;
+}
+.product-button {
+    background-color: #CFD2CF;
+    color: #3B4A6B;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 677px;
+    margin-top: 50px;
+    width: 150px;
+    height: 47px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.product-button:hover {
+    color: red;
+
+}
+
+.product-box:hover {
+    background-color:#e0e2e4;
+}
+.rolex:hover {
+    width: 203px;
+}
+.products-gender {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    color: #6b5b95;
+    background-color:#e0e2e4;
+    width: 160px;
+    padding: 12px;
+    margin-left: 160px;
+    border-radius: 5px;
+}
+.products-gender1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 160px;
+    margin-top: 60px;
+    color: #d64161;
+    background-color: #e0e2e4;
+    width: 180px;
+    padding: 8px;
+    border-radius: 5px;
+
+}
+
+.product-box2 {
+    width: 350px;
+    height: 470px;
+    border-radius: 15px;
+    background-color: #F7F7F7;
+    box-shadow: 2px 2px 3px 2px #888888;
+}
+
+@media screen and ( min-width: 768px){
+
+    
+
+
+};
